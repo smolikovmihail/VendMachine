@@ -1,7 +1,7 @@
 # VendMachine
 Simulates the operation of a coffee vending machine. Using Entity Framework.
 Техническое задание на разработку виртуального аппарата по продаже кофе 
-(Vending Machine) 
+(Vending Machine) В архиве решение VisualStudio.
 Описание:  
   Смоделировать работу VM по продаже кофе, чая и т.д. реализовать 
 описанные сценарии работы. 
